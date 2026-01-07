@@ -1,0 +1,21 @@
+:root {
+    --shafatel-main-color-1 :#2DDE99;
+    --shafatel-main-color-2 :#412DDE;
+    --shafatel-main-color-3 :#DE2D72;
+    --shafatel-main-color-4 :#CBDE2D;
+    --shafatel-main-forground-color : #f8f9fa;
+    --shafatel-main-background-color : #0072ff;
+    --shafatel-dnager-background-color :#de2d7247;
+    --shafate-max-width: 440px;
+    --sm_green: rgb(102,204,102);
+    --sm_darkgreen: rgb(51,102,102);
+    --sm_red: rgb(204,0,0);
+    --sm_lightgreen: rgb(102,255,102);
+    --sm_gray: rgb(204,204,204);
+    --sm_darkblue: rgb(51,153,153);
+    --sm_blue: rgb(102,204,204);
+    --kookbaz_green:rgba(35,192,181,1);
+    --kookbaz_lightgreen:rgba(239,250,249,1);
+    --kookbaz_Gray:#C4C4C4;
+
+}

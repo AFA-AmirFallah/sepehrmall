@@ -1,0 +1,8 @@
+.site-logo img{
+    height: 45px;
+}
+@media(max:568px){
+    #main-top-avatar{
+        text-align: end;
+    }
+}
